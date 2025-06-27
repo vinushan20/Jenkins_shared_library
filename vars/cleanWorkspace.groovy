@@ -1,3 +1,3 @@
 def call() {
-    cleanWs()git add .
-}cleanWorkspace
+    cleanWs()
+}
